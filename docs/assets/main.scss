@@ -1,0 +1,28 @@
+---
+---
+
+@import "minima";
+
+.site-header {
+  border-top: 0px;
+}
+
+div.profiles {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+
+div.perso {
+  width: 30%;
+  border: 1px solid #dbdbdb;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+div.perso > p > img {
+  box-sizing: border-box;
+  padding: 20px;
+  border-radius: 1000px;
+}
