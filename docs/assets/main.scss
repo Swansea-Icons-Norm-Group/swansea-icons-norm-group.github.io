@@ -14,7 +14,7 @@ div.profiles {
 }
 
 div.perso {
-  width: 30%;
+  width: 40%;
   border: 1px solid #dbdbdb;
   margin: 10px;
   border-radius: 5px;
@@ -23,6 +23,7 @@ div.perso {
 
 div.perso > p > img {
   box-sizing: border-box;
-  padding: 20px;
+  padding: 60px;
   border-radius: 1000px;
+  margin-bottom: -50px;
 }
