@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Oriel Science Engagement"
 date:   2023-06-19 13:37:10 +0100
 categories: jekyll update
 ---

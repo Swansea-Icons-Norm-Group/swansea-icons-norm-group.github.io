@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Oriel Science Exhibition"
+title:  "Irene Reppa Presents at Colchester"
 date:   2023-06-19 13:37:10 +0100
 categories: jekyll update
 ---
