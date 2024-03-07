@@ -47,7 +47,7 @@ Maria Fernandez-Parra is a Senior Lecturer and Researcher in Translation and Int
 
 <div class="profiles">
 <div class="perso" markdown="1">
-# Daniel
+# Daniel Earnshaw
 Daniels text
 </div>
 
@@ -62,6 +62,6 @@ Suraj's text.
 
 <div class="perso" markdown="1">
 # Zoe Alderson
-
+Zoe's text.
 
 </div>
