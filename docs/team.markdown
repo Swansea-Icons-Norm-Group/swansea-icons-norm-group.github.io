@@ -35,8 +35,12 @@ Cris's interest focus on how words are organised in the brain and how this organ
 # Dr. Maria Fernandez Parra
 [Personal homepage](https://www.swansea.ac.uk/staff/m.a.fernandezparra/)
 
-Maria Fernandez-Parra is a Senior Lecturer and Researcher in Translation and Interpreting. She is a qualified translator and interpreter by the Universitat Autònoma de Barcelona. She also completed an MA in Translation with Language Technology and a PhD in Computer-Assisted Translation at Swansea University and holds a PGCE teaching qualification.
-</div>
+Maria Fernandez-Parra is a Senior Lecturer and Researcher in
+Translation and Interpreting. She is a qualified translator and
+interpreter by the Universitat Autònoma de Barcelona. She also
+completed an MA in Translation with Language Technology and a PhD in
+Computer-Assisted Translation at Swansea University and holds a PGCE
+teaching qualification.  </div>
 
 </div>
 
@@ -47,8 +51,15 @@ Maria Fernandez-Parra is a Senior Lecturer and Researcher in Translation and Int
 
 <div class="profiles">
 <div class="perso" markdown="1">
+![Daniel Earnshaw's Profile Picture](/images/danprofile.jpeg)
 # Daniel Earnshaw
-Daniels text
+[Personal homepage](https://www.linkedin.com/in/daniel-earnshaw-1b57a0257/)
+
+Daniel is a psychology graduate and research assistant who acquired
+his BSc and MSc from Swansea University. He undertook his masters
+dissertation on the perception of aesthetic appeal in icons and
+symbols.
+
 </div>
 
 <div class="perso" markdown="1">
