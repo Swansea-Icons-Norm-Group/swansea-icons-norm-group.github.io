@@ -14,16 +14,26 @@ div.profiles {
 }
 
 div.perso {
-  width: 40%;
+  width: 100%;
   border: 1px solid #dbdbdb;
   margin: 10px;
   border-radius: 5px;
   padding: 20px;
 }
 
-div.perso > p > img {
+div.perso > .profile {
   box-sizing: border-box;
-  padding: 60px;
+  float: left;
+  width: 30%;
+  margin: 2%;
+  margin-right: 5%;
+  float: left;
+}
+
+div.perso > .profile > p > img {
   border-radius: 1000px;
-  margin-bottom: -50px;
+}
+
+div.perso > h1 {
+  margin-top: 3%;
 }
