@@ -24,17 +24,17 @@ Irene is a Psychology Lecture at Swansea University, while her research aims to 
 # Dr. Jay Paul Morgan
 [Personal homepage](https://blog.morganwastaken.com)
 
-Jay is a Tutor at Computer Science in Swansea. His research focuses on the intregation of expert knowledge into the design and methodologies of Deep Learning.
+Jay is a Tutor at Computer Science in Swansea. His research focuses on the integration of expert knowledge into the design and methodologies of Deep Learning.
 </div>
 
 <div class="perso" markdown="1">
 <div class="profile" markdown="1">
-![Cris Izura Profile Picture](/images/crisprofile.jpeg)
+![Cris Izura Profile Picture](/images/crisprofile.jpg)
 </div>
 # Dr. Cris Izura
 [Personal homepage](https://www.swansea.ac.uk/staff/c.izura/)
 
-Cris's interest focus on how words are organised in the brain and how this organization changes as a consequence of normal learning, aging, the acquisition of a second language, brain injury or dementia.
+Cris Izura is an Associate Professor at the School of Psychology, Swansea University, specialized in the cognition of language. Their research explores a wide spectrum of topics ranging from fundamental cognitive language processing such as word recognition to broader inquires into the communicative patterns of online grooming or icon processing.
 </div>
 
 <div class="perso" markdown="1">

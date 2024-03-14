@@ -32,6 +32,7 @@ div.perso > .profile {
 
 div.perso > .profile > p > img {
   border-radius: 1000px;
+  clip-path: circle();
 }
 
 div.perso > h1 {
