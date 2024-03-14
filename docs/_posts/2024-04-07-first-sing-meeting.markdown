@@ -6,6 +6,10 @@ categories: conference
 ---
 We had our first SING meeting where we brought everyone together to discuss the work we're doing!
 
+Jay introduced the group meeting.
+
+![Jay Paul Morgan presenting](/images/sing_1_IMG_20240307_141244.jpg)
+
 Irene gave us an overview of the SING project group
 
 ![Irene Reppa presenting](/images/sing_3_IMG_20240307_142327.jpg).
