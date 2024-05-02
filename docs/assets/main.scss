@@ -2,6 +2,17 @@
 ---
 
 @import "minima";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Permanent+Marker&display=swap');
+
+h1,h2,h3,h4,h5 {
+  font-family: "Permanent Marker", cursive;
+}
+
+body {
+  font-family: font-family: "Noto Sans", sans-serif!important;
+  line-height: 24pt;
+  margin-bottom: 24pt;
+}
 
 .site-header {
   border-top: 0px;

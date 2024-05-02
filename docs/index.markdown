@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-![Which-do-you-choose?](/images/which-to-choose.png){: width="350"}
+![Which-do-you-choose?](/images/which-to-choose.png){: width="350" float="right"}
 
 Icons and symbols permeate our everyday lives, from the buttons on kitchen electronics, to our phone applications, and in industrial settings. Icons mean to tell us something, portray some function. But how much do we really understand these icons, especially for individuals across cultural barriers? Very little is known about the effectiveness of most digital icons and symbols. Current icon design guidelines are built based on normative studies and performance scores obtained by a younger, mainly Western demographic. Use of culturally irrelevant or opaque icons comes not only with usability, but also ethical and moral issues of exclusion.
 
