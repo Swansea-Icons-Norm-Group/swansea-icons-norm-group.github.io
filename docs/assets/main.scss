@@ -38,3 +38,11 @@ div.perso > .profile > p > img {
 div.perso > h1 {
   margin-top: 3%;
 }
+
+.site-title::before {
+  content: url("/images/sing-logo.jpg");
+  display: inline-block;
+  position: relative;
+  width: 32px;
+  top: 32px;
+  }
