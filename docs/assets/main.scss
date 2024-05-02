@@ -43,6 +43,15 @@ div.perso > h1 {
   content: url("/images/sing-logo-small.png");
   display: inline-block;
   position: relative;
-  width: 32px;
-  top: 32px;
-  }
+  width: 150px;
+  top: 5px;
+}
+
+.site-title {
+  line-height: 70px!important;
+}
+
+.site-nav {
+  margin-top: 24px!important;
+  line-height: inherit!important;
+}
