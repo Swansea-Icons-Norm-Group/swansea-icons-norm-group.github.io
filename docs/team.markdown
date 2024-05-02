@@ -60,6 +60,24 @@ teaching qualification.
 
 
 <div class="profiles">
+
+
+<div class="perso" markdown="1">
+# Suraj Ramchand
+</div>
+
+</div>
+
+## PhD Students
+
+<div class="perso" markdown="1">
+# Zoe Alderson
+</div>
+
+## Alumni
+
+<div class="profiles">
+
 <div class="perso" markdown="1">
 <div class="profile" markdown="1">
 ![Daniel Earnshaw's Profile Picture](/images/danprofile.jpeg)
@@ -73,18 +91,5 @@ dissertation on the perception of aesthetic appeal in icons and
 symbols.
 
 </div>
-
-<div class="perso" markdown="1">
-# Suraj Ramchand
-Suraj's text.
-</div>
-
-</div>
-
-## PhD Students
-
-<div class="perso" markdown="1">
-# Zoe Alderson
-Zoe's text.
 
 </div>
