@@ -70,8 +70,10 @@ teaching qualification.
 
 ## PhD Students
 
+<div class="profiles">
 <div class="perso" markdown="1">
 # Zoe Alderson
+</div>
 </div>
 
 ## Alumni
