@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# About
 
 ![Which-do-you-choose?](/images/which-to-choose.png){: width="350"}
 
